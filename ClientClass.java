@@ -59,5 +59,5 @@ public class ClientClass {
 
         return intDigits;
     }
-
+//ElrathorN 24.11.2020
 }

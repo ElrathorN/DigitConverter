@@ -62,4 +62,5 @@ public class SolveBox {
 
         return decNumber;
     }
+    //ElrathorN 24.11.2020
 }
